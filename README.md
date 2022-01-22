@@ -19,7 +19,7 @@ API basica para crear un usuario mediante POST y obtener datos mediantes GET usa
 
 ## Carpetas: 
 
-Modelo: ``` models/User.js ```
+Modelo: ``` /models/User.js ```
 
 Controlador: ``` /controllers/users.js ```
 
